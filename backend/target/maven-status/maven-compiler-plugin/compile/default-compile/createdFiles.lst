@@ -1,0 +1,13 @@
+com/autofinance/app/service/PerfilService.class
+com/autofinance/app/entity/Compra.class
+com/autofinance/app/security/SecurityConfig.class
+com/autofinance/app/repository/PerfilRepository.class
+com/autofinance/app/controller/PerfilController.class
+com/autofinance/app/entity/Perfil.class
+com/autofinance/app/service/CompraService.class
+com/autofinance/app/controller/DashboardController.class
+com/autofinance/app/repository/UsuarioRepository.class
+com/autofinance/app/AutofinanceApplication.class
+com/autofinance/app/repository/CompraRepository.class
+com/autofinance/app/controller/CompraController.class
+com/autofinance/app/entity/Usuario.class

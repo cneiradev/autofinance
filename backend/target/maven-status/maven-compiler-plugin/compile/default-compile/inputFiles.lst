@@ -1,0 +1,13 @@
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/controller/DashboardController.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/repository/PerfilRepository.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/controller/CompraController.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/entity/Perfil.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/service/CompraService.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/repository/CompraRepository.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/controller/PerfilController.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/repository/UsuarioRepository.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/entity/Usuario.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/entity/Compra.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/security/SecurityConfig.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/AutofinanceApplication.java
+/Users/cristian/Desktop/autofinance/backend/src/main/java/com/autofinance/app/service/PerfilService.java
